@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Lisse4k
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Дима
+- 👀 I’m interested in  написание ботов в телеграмме
+- 🌱 I’m  самоучка
 - 📫 How to reach me @Lisse4k telegram
 
 <!---
